@@ -6,5 +6,5 @@
     }
 </script>
 <body>
-<button onclick="windowHijack()">Open Window!</button>
+<button onclick="windowHijack()">Oooh check this out!</button>
 </body>
